@@ -13,5 +13,8 @@ Sample website with plenty of files for demos
 Douchebag teacher
 Double douchebag
 
-
 ## How to contribute
+
+### Copyright
+
+2016 Todd A. Woods
