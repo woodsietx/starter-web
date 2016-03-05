@@ -15,6 +15,8 @@ Double douchebag
 
 ## How to contribute
 
+Fork and pull for review.
+
 ### Copyright
 
 2016 Todd A. Woods
