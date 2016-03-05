@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Todd todd@email.com bighead
 
 # THANKS
 
